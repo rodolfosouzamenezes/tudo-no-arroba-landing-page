@@ -48,7 +48,8 @@ export const FreeTrialEmail = ({ email, name, phone }: FreeTrialEmailProps) => {
             <Text className="text-[14px] leading-[24px] text-black">
               Temos boas notícias para você,{' '}
               <strong className="capitalize">{name}</strong> está solicitando um{' '}
-              <strong>teste grátis de 1 mês do Tudo No@</strong>. Entre em contato:
+              <strong>teste grátis de 1 mês do Tudo No@</strong>. Entre em
+              contato:
             </Text>
             <Text className="text-[14px] leading-[24px] text-black">
               <strong className="capitalize">Email: </strong> {email}
